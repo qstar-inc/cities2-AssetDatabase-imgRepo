@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Prisoner">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Prisoner" clip-path="url(#clip-Prisoner)">
+    <circle id="Ellipse_590" data-name="Ellipse 590" cx="4.426" cy="4.426" r="4.426" transform="translate(11.533 6.263)" fill="#fff"/>
+    <path id="Path_3516" data-name="Path 3516" d="M-385.268-903.7h-11.374a1.339,1.339,0,0,1-1.338-1.337c0-.026-.043-2.615,0-4,0-.059,0-.12.005-.184v-.028c.009-.332.02-.743.065-1.192h13.9a10.916,10.916,0,0,1,.077,1.4v.6h-14.034v2h14.034v1.4A1.339,1.339,0,0,1-385.268-903.7Zm.8-8.736h-12.987a4.343,4.343,0,0,1,2.634-2.547c.02,0,.057.046.12.118a4.5,4.5,0,0,0,3.627,1.537h.1a4.579,4.579,0,0,0,2.727-.836c.234-.165.422-.325.587-.467.252-.214.434-.369.582-.369a.185.185,0,0,1,.077.016,3.6,3.6,0,0,1,2.535,2.545Z" transform="translate(406.965 929.437)" fill="#fff"/>
+  </g>
+</svg>
