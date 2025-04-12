@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="26" height="26" version="1.1" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <clipPath id="b">
-   <rect width="26" height="26"/>
-  </clipPath>
- </defs>
- <g id="a" transform="translate(.43394)">
-  <g transform="translate(5.716,6.512)">
-   <path d="m6.4236-0.67254-5.183 6.6408h5.183l-7.149 7.8209 12.893-7.739c0.03853-0.026811-0.0061-0.083581-0.06384-0.081847h-4.8578l7.5618-6.5692c0.14394-0.10584 0.04382-0.071663-0.05553-0.071663z" fill="#ffb80e"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-Electricity">
+      <rect width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="Electricity" clip-path="url(#clip-Electricity)">
+    <path id="Path_3603" data-name="Path 3603" d="M-30.5-947.647l5.1,3.134-5.1,4.76,3.5,2.842-2.158,2.375-8.384-4.5,3.2-5.481Z" transform="translate(45.606 950.738)" fill="#ffe282"/>
+    <path id="Path_3602" data-name="Path 3602" d="M-33.946-944.633l-4.921,7.321,3.861,2.661-4.8,6.821,10.942-6.821-4-2.661,4-4.121Z" transform="translate(45.606 950.738)" fill="#ffb80e"/>
   </g>
- </g>
 </svg>

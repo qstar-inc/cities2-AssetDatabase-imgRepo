@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-BridgesAndPorts_">
+      <rect width="40" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="BridgesAndPorts_" data-name="BridgesAndPorts " clip-path="url(#clip-BridgesAndPorts_)">
+    <g id="Group_2620" data-name="Group 2620" transform="translate(35.092 40)">
+      <path id="Path_3383" data-name="Path 3383" d="M1.908-40h-34a3,3,0,0,0-3,3V-3a3,3,0,0,0,3,3h34a3,3,0,0,0,3-3V-37A3,3,0,0,0,1.908-40Z" fill="#3152ff"/>
+    </g>
+    <g id="Group_2621" data-name="Group 2621" transform="translate(33.812 1.342)">
+      <path id="Path_3384" data-name="Path 3384" d="M0,37.316H-27.625A4.845,4.845,0,0,1-32.47,32.47V4.846A4.845,4.845,0,0,1-27.625,0H-1.97L4.846,6.816V32.47A4.846,4.846,0,0,1,0,37.316" fill="#001626"/>
+    </g>
+    <g id="Group_2622" data-name="Group 2622" transform="translate(-3.009 -0.187)">
+      <path id="Path_3385" data-name="Path 3385" d="M14.8,19.011H10.724V16.672H14.8Zm-.021,4.677H10.746V21.356h4.035Zm1.155-9.6H7.62v12.2h8.316a1.957,1.957,0,0,0,1.97-1.97V21.93a1.951,1.951,0,0,0-1.046-1.744,1.948,1.948,0,0,0,1.046-1.743V16.055a1.957,1.957,0,0,0-1.97-1.97" fill="#fff"/>
+    </g>
+    <g id="Group_2623" data-name="Group 2623" transform="translate(2.308 -0.187)">
+      <path id="Path_3386" data-name="Path 3386" d="M29.838,19.751H26.021V16.927h3.817Zm1.273-5.666H22.777v12.2h3.244v-3.7h5.09a1.957,1.957,0,0,0,1.97-1.97V16.055a1.957,1.957,0,0,0-1.97-1.97" fill="#fff"/>
+    </g>
+    <text id="_" data-name="&amp;" transform="translate(15.991 24)" fill="#fff" font-size="11" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="0" y="0">&amp;</tspan></text>
+  </g>
+</svg>

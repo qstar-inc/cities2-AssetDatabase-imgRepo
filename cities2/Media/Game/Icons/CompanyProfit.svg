@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26"><defs><clipPath id="b"><rect width="26" height="26"/></clipPath></defs><g id="a"><path d="M349.485-416.192l7.221-8.054,4.923,4,4.533-6.27,1.528,1.1-6.061,7.858-4.923-4.024-6.321,6.92Z" transform="translate(-346 434)" fill="#adadad"/><circle cx="2.5" cy="2.5" r="2.5" transform="translate(2 16)" fill="#e84c4c"/><circle cx="2.5" cy="2.5" r="2.5" transform="translate(8 9)" fill="#4494dc"/><circle cx="2.5" cy="2.5" r="2.5" transform="translate(18 6)" fill="#4af726"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-CompanyProfit">
+      <rect width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="CompanyProfit" clip-path="url(#clip-CompanyProfit)">
+    <g id="ZoneCommercial" transform="translate(0.797 7.786)">
+      <path id="Path_760" data-name="Path 760" d="M-10008-10483.614l13.3,9.148,11.105-9.148-13.568-7.386Z" transform="translate(10008 10491)" fill="#00c1ff"/>
+      <path id="Path_761" data-name="Path 761" d="M-9906.381-10481.489l7.087,4.511.119-4.511-7.208-4.328Z" transform="translate(9912.689 10489.582)" fill="#0089cf"/>
+      <path id="Path_762" data-name="Path 762" d="M-9888.85-10475.9l4.75-3.751v-4.228l-4.75,3.484Z" transform="translate(9902.247 10488.593)" fill="#0071a9"/>
+      <path id="Path_763" data-name="Path 763" d="M-9906.28-10489.325l7.147,4.335,4.611-3.474-7.11-3.927Z" transform="translate(9912.637 10493.182)" fill="#73e0fc"/>
+      <path id="Path_764" data-name="Path 764" d="M-9902.631-10488.211l5.635,3.167,3.094-2.263-5.443-2.977Z" transform="translate(9910.465 10492.012)" fill="#3ed2ff"/>
+      <path id="Path_765" data-name="Path 765" d="M-9905.544-10480.6l-.793,1.207,7.082,4.2.833-1.33Z" transform="translate(9911.863 10486.317)" fill="#73e0fc"/>
+      <path id="Path_766" data-name="Path 766" d="M-9894.63-10482.8l3.142,1.868v-2.156l-3.142-1.869Z" transform="translate(9904.882 10488.697)" fill="#0089cf"/>
+    </g>
+    <g id="InfoIconCompanyProfit" transform="translate(5.476 2.789)">
+      <g id="Group_241" data-name="Group 241">
+        <path id="Path_264" data-name="Path 264" d="M9951.752,111.707l-5.064,3.778-9.982-5.721,4.691-3.631Z" transform="translate(-9936.704 -106.133)" fill="#c1ff67"/>
+        <path id="Path_267" data-name="Path 267" d="M9958.815,118.5v3.7l9.892,5.77v-3.9Z" transform="translate(-9958.815 -114.916)" fill="#72ab5e"/>
+        <path id="Path_265" data-name="Path 265" d="M9936.674,133.829l4.7-3.924.064-3.473-4.76,3.473Z" transform="translate(-9926.78 -120.779)" fill="#9adf4b"/>
+        <ellipse id="Ellipse_165" data-name="Ellipse 165" cx="3" cy="1.5" rx="3" ry="1.5" transform="translate(4.036 3.032)" fill="#458100"/>
+      </g>
+    </g>
+  </g>
+</svg>

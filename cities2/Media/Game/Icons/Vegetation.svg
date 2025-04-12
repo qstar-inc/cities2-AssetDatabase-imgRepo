@@ -5,17 +5,17 @@
     </clipPath>
   </defs>
   <g id="Vegetation" clip-path="url(#clip-Vegetation)">
-    <path id="Path_3564" data-name="Path 3564" d="M.287,0H2.051l.513,4.4a2.7,2.7,0,0,1-1.293.447A2.569,2.569,0,0,1,0,4.4Z" transform="translate(20.168 22.688)" fill="#976c4f"/>
-    <ellipse id="Ellipse_885" data-name="Ellipse 885" cx="5.573" cy="4.335" rx="5.573" ry="4.335" transform="translate(16.044 17.921)" fill="#4ca40b"/>
-    <ellipse id="Ellipse_886" data-name="Ellipse 886" cx="3.901" cy="4.459" rx="3.901" ry="4.459" transform="translate(14.93 15.738)" fill="#4ca40b"/>
-    <path id="Path_3565" data-name="Path 3565" d="M4.522,0A4.293,4.293,0,0,1,9.044,4.02c0,2.22-2.025,3.817-4.522,3.817S0,6.24,0,4.02A4.293,4.293,0,0,1,4.522,0Z" transform="translate(16.718 16.513)" fill="#79dd2c"/>
-    <ellipse id="Ellipse_887" data-name="Ellipse 887" cx="3.901" cy="3.344" rx="3.901" ry="3.344" transform="translate(14.93 15.738)" fill="#79dd2c"/>
-    <circle id="Ellipse_883" data-name="Ellipse 883" cx="2.787" cy="2.787" r="2.787" transform="translate(22.732 17.921)" fill="#4ca40b"/>
-    <ellipse id="Ellipse_888" data-name="Ellipse 888" cx="5.573" cy="4.335" rx="5.573" ry="4.335" transform="translate(16.044 13.554)" fill="#79dd2c"/>
-    <ellipse id="Ellipse_889" data-name="Ellipse 889" cx="2.787" cy="2.09" rx="2.787" ry="2.09" transform="translate(21.618 17.921)" fill="#79dd2c"/>
-    <path id="Path_473" data-name="Path 473" d="M0,0H3.079V5.483a3.174,3.174,0,0,1-1.553.557A3.021,3.021,0,0,1,0,5.483Z" transform="translate(10.047 21.66)" fill="#b28e5e"/>
-    <path id="Path_470" data-name="Path 470" d="M7.295,0l4.711,7.951,2.584,2.586a20.842,20.842,0,0,1-7.295,1.609A20.842,20.842,0,0,1,0,10.537s.4.048,2.219-2.586S7.295,0,7.295,0Z" transform="translate(4.241 11.934)" fill="#367c01"/>
-    <path id="Path_471" data-name="Path 471" d="M6.462,0s2.052,3.318,3.668,5.34a12.672,12.672,0,0,0,2.794,2.748A20.821,20.821,0,0,1,6.462,9.323,20.821,20.821,0,0,1,0,8.088,15.6,15.6,0,0,0,2.629,5.34C4.244,3.318,6.462,0,6.462,0Z" transform="translate(5.117 9.893)" fill="#54b60b"/>
-    <path id="Path_472" data-name="Path 472" d="M4.134,0A24.987,24.987,0,0,0,5.812,4.58,15.566,15.566,0,0,0,8.267,8.018,9.44,9.44,0,0,1,4.134,9.243,9.44,9.44,0,0,1,0,8.018,17.177,17.177,0,0,0,2.365,4.58,29.391,29.391,0,0,0,4.134,0Z" transform="translate(7.605 4.3)" fill="#83e637"/>
+    <path id="Path_473" data-name="Path 473" d="M0,0H3.079V5.483a3.174,3.174,0,0,1-1.553.557A3.021,3.021,0,0,1,0,5.483Z" transform="translate(10.047 18.909)" fill="#b28e5e"/>
+    <path id="Path_470" data-name="Path 470" d="M7.295,0l4.711,7.951,2.584,2.586a20.842,20.842,0,0,1-7.295,1.609A20.842,20.842,0,0,1,0,10.537s.4.048,2.219-2.586S7.295,0,7.295,0Z" transform="translate(4.241 10.182)" fill="#367c01"/>
+    <path id="Path_471" data-name="Path 471" d="M6.462,0s2.052,3.318,3.668,5.34a12.672,12.672,0,0,0,2.794,2.748A20.821,20.821,0,0,1,6.462,9.323,20.821,20.821,0,0,1,0,8.088,15.6,15.6,0,0,0,2.629,5.34C4.244,3.318,6.462,0,6.462,0Z" transform="translate(5.117 8.142)" fill="#54b60b"/>
+    <path id="Path_472" data-name="Path 472" d="M4.134,0A24.987,24.987,0,0,0,5.812,4.58,15.566,15.566,0,0,0,8.267,8.018,9.44,9.44,0,0,1,4.134,9.243,9.44,9.44,0,0,1,0,8.018,17.177,17.177,0,0,0,2.365,4.58,29.391,29.391,0,0,0,4.134,0Z" transform="translate(7.605 2.549)" fill="#83e637"/>
+    <path id="Path_3564" data-name="Path 3564" d="M.287,0H2.051l.513,4.4a2.7,2.7,0,0,1-1.293.447A2.569,2.569,0,0,1,0,4.4Z" transform="translate(21.239 24.6)" fill="#976c4f"/>
+    <ellipse id="Ellipse_885" data-name="Ellipse 885" cx="5.573" cy="4.335" rx="5.573" ry="4.335" transform="translate(17.115 19.834)" fill="#4ca40b"/>
+    <ellipse id="Ellipse_886" data-name="Ellipse 886" cx="3.901" cy="4.459" rx="3.901" ry="4.459" transform="translate(16 16.694)" fill="#4ca40b"/>
+    <path id="Path_3565" data-name="Path 3565" d="M4.522,0A4.293,4.293,0,0,1,9.044,4.02c0,2.22-2.025,3.817-4.522,3.817S0,6.24,0,4.02A4.293,4.293,0,0,1,4.522,0Z" transform="translate(17.789 18.426)" fill="#79dd2c"/>
+    <ellipse id="Ellipse_887" data-name="Ellipse 887" cx="3.901" cy="3.344" rx="3.901" ry="3.344" transform="translate(16 16.694)" fill="#79dd2c"/>
+    <circle id="Ellipse_883" data-name="Ellipse 883" cx="2.787" cy="2.787" r="2.787" transform="translate(23.803 19.834)" fill="#4ca40b"/>
+    <ellipse id="Ellipse_888" data-name="Ellipse 888" cx="5.573" cy="4.335" rx="5.573" ry="4.335" transform="translate(17.115 15.467)" fill="#79dd2c"/>
+    <ellipse id="Ellipse_889" data-name="Ellipse 889" cx="2.787" cy="2.09" rx="2.787" ry="2.09" transform="translate(22.688 19.834)" fill="#79dd2c"/>
   </g>
 </svg>

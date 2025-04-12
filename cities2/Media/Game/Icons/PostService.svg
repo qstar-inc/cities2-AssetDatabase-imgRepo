@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26"><defs><clipPath id="a"><rect width="26" height="26"/></clipPath></defs><g id="b"><g><g transform="translate(-103 34.747)"><path d="M0,0H14V9H0Z" transform="translate(109 -24.747)" fill="#9fb8c8"/><path d="M19.375,26.3l7.344-4.283,7.041,4.71Z" transform="translate(89.644 -50.833)" fill="#9fb8c8"/><path d="M19.342,27.316l7.272-4.285,6.959,4.285Z" transform="translate(89.656 -43.043)" fill="#d7e3f0"/><path d="M27.226,56.534l6.928-4.522-13.8-.035Z" transform="translate(89.041 -76.501)" fill="#61819c"/></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-PostService">
+      <rect width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="PostService" clip-path="url(#clip-PostService)">
+    <g id="Group_2738" data-name="Group 2738" transform="translate(-1.444 -2.062)">
+      <path id="Path_3717" data-name="Path 3717" d="M-174.81-836.581l11.609,6.815v-8.871l-11.609-6.308Z" transform="translate(183.003 853.153)" fill="#9fb8c8"/>
+      <path id="Path_3718" data-name="Path 3718" d="M-161.2-826.614s.7.058.857-.525,0-8.8,0-8.8l-7.393-9.323-5.109,3.472,11.645,6.329Z" transform="translate(181 850)" fill="#9fb8c8"/>
+      <path id="Path_3719" data-name="Path 3719" d="M-172.81-841.856l11.525,6.234-7.319.357Z" transform="translate(181.003 850.135)" fill="#61819c"/>
+      <path id="Path_3720" data-name="Path 3720" d="M-161.19-827.011l-7.443-8.593-4.178,1.86Z" transform="translate(181.003 850.381)" fill="#d7e3f0"/>
+    </g>
+  </g>
+</svg>

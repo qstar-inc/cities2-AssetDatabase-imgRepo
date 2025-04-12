@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="28" viewBox="0 0 58 28"><defs><clipPath id="b"><rect width="58" height="28"/></clipPath></defs><g id="a"><g transform="translate(4.268 1.923)"><path d="M16070.533,4413.249a3.839,3.839,0,0,0,3.281.845l31.777.41s4.057-2.412,7.393-4.168a27.7,27.7,0,0,0,5.75-4.113l2.123-11.944h-5.018l-6.8,8.431H16079.9a14.055,14.055,0,0,0-6.09,1.192c-2.637,1.349-3.479,1.567-4.463,4.2S16069.3,4411.963,16070.533,4413.249Z" transform="translate(-16068.863 -4394.279)" fill="#88978f"/><path d="M16092.909,4414.5a.723.723,0,0,1,.178-.119,1.6,1.6,0,0,1,.252-.091h5.881l3.373,2.169-2.656.22Z" transform="translate(-16048.704 -4410.961)" fill="#a1b8ac"/><path d="M16069.471,4411.679h4.5s1.25.057,1.287-.73a.775.775,0,0,0-.633-.876l-4.066-.057a4.917,4.917,0,0,0-.6.766A8.291,8.291,0,0,0,16069.471,4411.679Z" transform="translate(-16069.074 -4398.115)" fill="#182237"/><path d="M16102.59,4426.015s-5.715-.425-8.434-.323-2.414.448-2.584.758-.187.38-.209,1.6.344,1.569.344,1.569.066.621,2.789.621,8.094-.621,8.094-.621a4.142,4.142,0,0,0,.385-1.846A2.663,2.663,0,0,0,16102.59,4426.015Z" transform="translate(-16072.876 -4407.697)" fill="#5f6562"/><path d="M16102.59,4426.015s-5.715-.425-8.434-.323-2.414.448-2.584.758-.187.38-.209,1.6.344,1.569.344,1.569.066.621,2.789.621,8.094-.621,8.094-.621a4.142,4.142,0,0,0,.385-1.846A2.663,2.663,0,0,0,16102.59,4426.015Z" transform="translate(-16071.694 -4406.697)" fill="#88978f"/><g transform="translate(18.732 18.077)" fill="#fff" stroke="#707070" stroke-width="1"><ellipse cy="1" ry="1" stroke="none"/><ellipse cy="1" rx="0.5" ry="0.5" fill="none"/></g><path d="M16092.909,4414.765a1.233,1.233,0,0,1,.264-.27,1.854,1.854,0,0,1,.381-.206h8.807l5.051,4.924-3.979.5Z" transform="translate(-16074.572 -4398.178)" fill="#a1b8ac"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-CargoAirplane">
+      <rect width="28" height="28"/>
+    </clipPath>
+  </defs>
+  <g id="CargoAirplane" clip-path="url(#clip-CargoAirplane)">
+    <rect id="Rectangle_4563" data-name="Rectangle 4563" width="6.99" height="4.052" rx="2.026" transform="matrix(0.719, -0.695, 0.695, 0.719, 15.002, 21.626)" fill="#88978f"/>
+    <rect id="Rectangle_4565" data-name="Rectangle 4565" width="6.99" height="4.052" rx="2.026" transform="matrix(0.719, -0.695, 0.695, 0.719, 12.271, 20.656)" fill="#88978f"/>
+    <rect id="Rectangle_4564" data-name="Rectangle 4564" width="6.99" height="4.052" rx="2.026" transform="matrix(0.719, -0.695, 0.695, 0.719, 1.599, 16.626)" fill="#88978f"/>
+    <rect id="Rectangle_4566" data-name="Rectangle 4566" width="6.99" height="4.052" rx="2.026" transform="matrix(0.719, -0.695, 0.695, 0.719, 3.858, 17.631)" fill="#88978f"/>
+    <path id="Path_3811" data-name="Path 3811" d="M.99.458a1.314,1.314,0,0,1,1.147,1.4c0,.828-.444,1.266-1,1.266s-1-.437-1-1.266S.438.458.99.458Z" transform="translate(16.032 20.2) rotate(-3)" fill="#3e3c3c"/>
+    <path id="Path_3814" data-name="Path 3814" d="M.99.458a1.314,1.314,0,0,1,1.147,1.4c0,.828-.444,1.266-1,1.266s-1-.437-1-1.266S.438.458.99.458Z" transform="translate(13.302 19.23) rotate(-3)" fill="#3e3c3c"/>
+    <path id="Path_3812" data-name="Path 3812" d="M.99.458a1.314,1.314,0,0,1,1.147,1.4c0,.828-.444,1.266-1,1.266s-1-.437-1-1.266S.438.458.99.458Z" transform="translate(2.63 15.2) rotate(-3)" fill="#3e3c3c"/>
+    <path id="Path_3815" data-name="Path 3815" d="M.99.458a1.314,1.314,0,0,1,1.147,1.4c0,.828-.444,1.266-1,1.266s-1-.437-1-1.266S.438.458.99.458Z" transform="translate(4.889 16.206) rotate(-3)" fill="#3e3c3c"/>
+    <path id="Path_3810" data-name="Path 3810" d="M2302.693,447.663l-7.934-3.4-2.628,1.669,8.16,5.161Z" transform="translate(-2291.891 -433.266)" fill="#a1b8ac"/>
+    <path id="Path_3808" data-name="Path 3808" d="M2311.31,441.11l-3.835-1.379-1.884,1.379,3.463,2.3Z" transform="translate(-2292.472 -432.79)" fill="#a1b8ac"/>
+    <path id="Path_3805" data-name="Path 3805" d="M3.563.114c2.157-.759,14.716-.3,14.716-.3,1.969-.016,4.413.667,4.4,2.406s-3.327,3.1-7.491,3.92L3.5,6.411A3.3,3.3,0,0,1-.034,3.291C-.016,1.552,1.407.873,3.563.114Z" transform="matrix(0.788, -0.616, 0.616, 0.788, 2.528, 20.705)" fill="#88978f"/>
+    <path id="Path_3806" data-name="Path 3806" d="M2310.978,442.544l1.55-6.6,2.177-1.149v6.367Z" transform="translate(-2293.977 -432.305)" fill="#88978f"/>
+    <path id="Path_3807" data-name="Path 3807" d="M2315.485,442.624l3.9,1.379-1.872,1.529-4.365-.919Z" transform="translate(-2294.227 -433.074)" fill="#a1b8ac"/>
+    <path id="Path_3809" data-name="Path 3809" d="M2306.012,453.145l3.688-3.218,11.465,4.8-2.256,2.3Z" transform="translate(-2293.405 -433.792)" fill="#a1b8ac"/>
+    <path id="Path_3813" data-name="Path 3813" d="M2298.81,453.724a4.817,4.817,0,0,0,2.293.95,2.658,2.658,0,0,0,1.77-.79l-.086.79a2.8,2.8,0,0,1-1.96.836,4.9,4.9,0,0,1-2.494-1,2.8,2.8,0,0,1,.212-.464A1.607,1.607,0,0,1,2298.81,453.724Z" transform="translate(-2293.475 -434.854)" fill="#182237"/>
+  </g>
+</svg>

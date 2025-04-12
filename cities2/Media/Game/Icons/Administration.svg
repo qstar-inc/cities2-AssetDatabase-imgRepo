@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26"><defs><clipPath id="a"><rect width="26" height="26"/></clipPath></defs><g id="b"><text transform="translate(-8 43)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">new</tspan></text><g><g transform="translate(0 1)"><path d="M0,0H16V2H0Z" transform="translate(5 10)" fill="#d7e3f0"/><rect width="16" height="3" transform="translate(5 17)" fill="#d7e3f0"/><rect width="14" height="5" transform="translate(6 12)" fill="#61819c"/><path d="M4,0H6a4,4,0,0,1,4,4V5H0V4A4,4,0,0,1,4,0Z" transform="translate(8 5)" fill="#819bad"/><rect width="2" height="5" transform="translate(6 12)" fill="#9fb8c8"/><rect width="2" height="5" transform="translate(18 12)" fill="#9fb8c8"/><rect width="2" height="5" transform="translate(10 12)" fill="#9fb8c8"/><rect width="2" height="5" transform="translate(14 12)" fill="#9fb8c8"/><rect width="2" height="3" transform="translate(12 2)" fill="#d7e3f0"/></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-Administration">
+      <rect width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="Administration" clip-path="url(#clip-Administration)">
+    <path id="Path_3762" data-name="Path 3762" d="M169.653-1000.54l11.91,6.077,8-7.677-11.63-5.5Z" transform="translate(-166.607 1017.098)" fill="#c0cddc"/>
+    <path id="Path_3763" data-name="Path 3763" d="M167.984-998.917l12,6.15v-2.593l-12-5.8Z" transform="translate(-164.938 1017.575)" fill="#9fb8c8"/>
+    <path id="Path_3764" data-name="Path 3764" d="M179.979-995.361l7.8-7.4-.268,2.379-7.529,7.538Z" transform="translate(-164.938 1017.575)" fill="#819bad"/>
+    <path id="Path_3770" data-name="Path 3770" d="M172.536-1004l-3.208,2.7s9.813,5.122,10.086,4.814,6.632-6.121,6.632-6.121l-9.238-4.018Z" transform="translate(-164.564 1017.594)" fill="#9fb8c8"/>
+    <rect id="Rectangle_4559" data-name="Rectangle 4559" width="2" height="5" rx="1" transform="translate(5.062 11.575)" fill="#d7e3f0"/>
+    <path id="Path_3771" data-name="Path 3771" d="M.71-.525a1,1,0,0,1,1,1v3a1,1,0,0,1-2,0v-3A1,1,0,0,1,.71-.525Z" transform="translate(9.334 14.1)" fill="#d7e3f0"/>
+    <rect id="Rectangle_4560" data-name="Rectangle 4560" width="2" height="5" rx="1" transform="translate(13.062 15.575)" fill="#d7e3f0"/>
+    <rect id="Rectangle_4561" data-name="Rectangle 4561" width="2" height="5" rx="1" transform="translate(19.062 10.575)" fill="#819bad"/>
+    <rect id="Rectangle_4562" data-name="Rectangle 4562" width="2" height="5" rx="1" transform="translate(16.062 13.575)" fill="#819bad"/>
+    <path id="Path_3766" data-name="Path 3766" d="M179.979-996.141l6.807-6.054v1.9l-6.807,6.522Z" transform="translate(-164.931 1011.001)" fill="#819bad"/>
+    <path id="Path_3767" data-name="Path 3767" d="M169.653-1001.212l10.713,5.053,6.85-6.074-10.292-5.078Z" transform="translate(-165.373 1011.078)" fill="#d7e3f0"/>
+    <path id="Path_3768" data-name="Path 3768" d="M4.5-1.537A4.358,4.358,0,0,1,9,3C9,4.657,6.985,6,4.5,6S0,4.657,0,3A4.358,4.358,0,0,1,4.5-1.537Z" transform="translate(9.062 5.575)" fill="#819bad"/>
+    <path id="Path_3769" data-name="Path 3769" d="M177.766-1012.533v-3.173l.67-.676.621.676v3.173l-.621.318Z" transform="translate(-164.938 1017.575)" fill="#d7e3f0"/>
+    <path id="Path_3765" data-name="Path 3765" d="M167.984-999.14l10.768,5.539v-2.336l-10.768-5.226Z" transform="translate(-163.704 1010.897)" fill="#9fb8c8"/>
+  </g>
+</svg>

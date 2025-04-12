@@ -1,12 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" viewBox="0 0 41 41">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
   <defs>
-    <clipPath id="clip-CityStatistics">
-      <rect width="41" height="41"/>
+    <clipPath id="clip-CItyStatistics">
+      <rect width="26" height="26"/>
     </clipPath>
   </defs>
-  <g id="CityStatistics" clip-path="url(#clip-CityStatistics)">
-    <rect id="Rectangle_2114" data-name="Rectangle 2114" width="6" height="10" transform="translate(10 25)" fill="#5ee8f7"/>
-    <rect id="Rectangle_2114-2" data-name="Rectangle 2114" width="6" height="15" transform="translate(18 20)" fill="#d65151"/>
-    <rect id="Rectangle_2114-3" data-name="Rectangle 2114" width="6" height="24" transform="translate(26 11)" fill="#f0d67f"/>
+  <g id="CItyStatistics" clip-path="url(#clip-CItyStatistics)">
+    <g id="Group_2735" data-name="Group 2735" transform="translate(1.492 1.803)">
+      <path id="Path_3666" data-name="Path 3666" d="M456.85-956.376l3.287-2.292,3.453,2.391-3.453,2.49Z" transform="translate(-443.502 960.116)" fill="#fff2c8"/>
+      <path id="Path_3668" data-name="Path 3668" d="M457.138-955.7l3.25-2,3.309,2.535-3.309,2.007Z" transform="translate(-454.229 962.298)" fill="#d3fbff"/>
+      <path id="Path_3665" data-name="Path 3665" d="M460.688-936.776l3.083-2.414v-4.868l-3.083,1.942Z" transform="translate(-454.519 951.307)" fill="#3b919b"/>
+      <path id="Path_3667" data-name="Path 3667" d="M457.065-955.775l3.313-2.062,3.433,2.569-3.433,1.92Z" transform="translate(-448.955 962.702)" fill="#ffbaba"/>
+      <path id="Path_3660" data-name="Path 3660" d="M443.948-946.165l3.263,2.536v-5.357l-3.263-2.587Z" transform="translate(-441.043 958.182)" fill="#5ee8f7"/>
+      <path id="Path_3661" data-name="Path 3661" d="M443.948-946.614l3.312,2.52v-8.7l-3.312-2.446Z" transform="translate(-435.825 962.141)" fill="#d65151"/>
+      <path id="Path_3663" data-name="Path 3663" d="M460.5-938.283l3.586-2.892v-14.784l-3.5,2.452Z" transform="translate(-443.977 959.783)" fill="#cfb767"/>
+      <path id="Path_3664" data-name="Path 3664" d="M460.637-937.242l3.083-2.414v-8.1l-3.083,1.866Z" transform="translate(-449.251 955.269)" fill="#a34242"/>
+      <path id="Path_3662" data-name="Path 3662" d="M443.948-947.552l3.311,2.436-.018-15.184-3.293-2.586Z" transform="translate(-430.607 966.588)" fill="#f0d67f"/>
+    </g>
   </g>
 </svg>

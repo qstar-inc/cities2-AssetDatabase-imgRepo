@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-Unique">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Unique" clip-path="url(#clip-Unique)">
+    <g id="Group_2905" data-name="Group 2905">
+      <path id="Polygon_19" data-name="Polygon 19" d="M31,0l9.3,19.807L62,22.536,46.048,37.507,50.159,59,31,48.446,11.841,59l4.111-21.493L0,22.536l21.7-2.729Z" transform="translate(1 3)" fill="#ffbf2a"/>
+    </g>
+  </g>
+</svg>

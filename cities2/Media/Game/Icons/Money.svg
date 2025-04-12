@@ -1,6 +1,17 @@
-<svg id="money" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <path d="m3 14.343 8.4515 5.4741 17.548-8.735-8.101-5.0828z" fill="#c1ff67" stroke-width=".92857"/>
- <path d="m11.452 26.001-8.4515-6.184v-5.4738l8.4515 5.4741z" fill="#9adf4b" stroke-width=".92857"/>
- <ellipse cx="16" cy="12.908" rx="4.1786" ry="1.8571" fill="#c9f19c" stroke="#8fc83d" stroke-width="1.3929"/>
- <path d="m29 11.083-17.549 8.7351 0.000928 6.1834 17.548-9.0975z" fill="#72ab5e" stroke-width=".92857"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-Money">
+      <rect width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="Money" clip-path="url(#clip-Money)">
+    <g id="InfoIconCompanyProfit" transform="translate(1.247 2.807)">
+      <g id="Group_241" data-name="Group 241">
+        <path id="Path_264" data-name="Path 264" d="M9959.577,114.978l-7.278,5.764-15.594-8.937,7.329-5.672Z" transform="translate(-9936.704 -106.133)" fill="#c1ff67"/>
+        <path id="Path_267" data-name="Path 267" d="M9958.816,118.5v5.775l15.451,9.013v-6.094Z" transform="translate(-9958.816 -112.902)" fill="#72ab5e"/>
+        <path id="Path_265" data-name="Path 265" d="M9936.675,137.987l7.335-6.129.1-5.425-7.436,5.425Z" transform="translate(-9921.22 -117.601)" fill="#9adf4b"/>
+        <ellipse id="Ellipse_165" data-name="Ellipse 165" cx="4.686" cy="2.343" rx="4.686" ry="2.343" transform="translate(6.305 4.737)" fill="#458100"/>
+      </g>
+    </g>
+  </g>
 </svg>

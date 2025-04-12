@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26"><defs><clipPath id="b"><rect width="26" height="26"/></clipPath></defs><g id="a"><g transform="translate(16.134 7.332) rotate(17)"><path d="M27.488.9s-1.173-2.411,0-4.118A7.03,7.03,0,0,1,30.31-5.228a8.509,8.509,0,0,0,2.044-1.695S33-2.453,31.823-.746,27.488.9,27.488.9Z" transform="translate(-26.967 6.923)" fill="#94c900"/></g><g transform="translate(13.19 11.288) rotate(163)"><path d="M.638-.012S-.846,3.229.53,5.468A8.1,8.1,0,0,0,3.9,8.068a9.994,9.994,0,0,1,2.432,2.2s.894-5.965-.482-8.2S.638-.012.638-.012Z" transform="translate(0 0)" fill="#a3db06"/></g><path d="M389.734-568.2a12,12,0,0,1,1.343-3.138,15.222,15.222,0,0,1,2.4-2.776,15.55,15.55,0,0,0-1.992,2.928,11.789,11.789,0,0,0-.97,3.107Z" transform="translate(-525.457 444.885) rotate(17)" fill="#815d38"/><path d="M3.234-7.836S1.753-7.658.647-4.751c-1.07,2.811.832,6.96,1.362,7.871a11.206,11.206,0,0,0,3.6,3.126A17.855,17.855,0,0,1,2.3,2.155a7,7,0,0,1-.386-5.688A5.846,5.846,0,0,1,6.051-6.974Z" transform="translate(13.33 10.84) rotate(163)" fill="#a8825b"/><path d="M130.165-600.775a19.633,19.633,0,0,0,4.906.755,17.318,17.318,0,0,0,4.717-.755s-1.576-3.151-4.717-2.962A6.845,6.845,0,0,0,130.165-600.775Z" transform="translate(-122.778 621)" fill="#94c900"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-NaturalResources">
+      <rect width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="NaturalResources" clip-path="url(#clip-NaturalResources)">
+    <g id="Group_2737" data-name="Group 2737" transform="translate(6.401 9.575)">
+      <path id="Path_2217" data-name="Path 2217" d="M733.536-301.364l8.793,7.534v-2.949l-8.824-7.249Z" transform="translate(-736.014 308.717)" fill="#9d662e"/>
+      <path id="Path_2218" data-name="Path 2218" d="M1223.46-1138.172l8.751,7.338,6.79-4.487-8.709-7.107Z" transform="translate(-1226 1142.887)" fill="#6fb900"/>
+      <path id="Path_3713" data-name="Path 3713" d="M10.433,18.248V15.319L17.2,10.9l-.071,2.937Z" transform="translate(-4.161 -3.348)" fill="#583716"/>
+    </g>
+    <g id="InfoIconNaturalResources" transform="translate(16.134 5.332) rotate(17)">
+      <path id="Path_758" data-name="Path 758" d="M27.488.9s-1.173-2.411,0-4.118A7.03,7.03,0,0,1,30.31-5.228a8.509,8.509,0,0,0,2.044-1.695S33-2.453,31.823-.746,27.488.9,27.488.9Z" transform="translate(-26.967 6.923)" fill="#94c900"/>
+    </g>
+    <g id="InfoIconNaturalResources-2" data-name="InfoIconNaturalResources" transform="translate(13.19 9.288) rotate(163)">
+      <path id="Path_758-2" data-name="Path 758" d="M.638-.012S-.846,3.229.53,5.468A8.1,8.1,0,0,0,3.9,8.068a9.994,9.994,0,0,1,2.432,2.2s.894-5.965-.482-8.2S.638-.012.638-.012Z" transform="translate(0 0)" fill="#a3db06"/>
+    </g>
+    <path id="Path_2277" data-name="Path 2277" d="M389.734-568.2a12,12,0,0,1,1.343-3.138,15.222,15.222,0,0,1,2.4-2.776,15.55,15.55,0,0,0-1.992,2.928,11.789,11.789,0,0,0-.97,3.107Z" transform="translate(-525.457 442.885) rotate(17)" fill="#815d38"/>
+    <path id="Path_2279" data-name="Path 2279" d="M131.1-602.319a5.432,5.432,0,0,0,3.972,2.3,7.465,7.465,0,0,0,4.333-1.652,4.564,4.564,0,0,0-4.333-2.8C131.929-604.288,131.1-602.319,131.1-602.319Z" transform="translate(-122.778 619)" fill="#94c900"/>
+    <path id="Path_2278" data-name="Path 2278" d="M3.234-7.836S1.753-7.658.647-4.751c-1.07,2.811.832,6.96,1.362,7.871a11.206,11.206,0,0,0,3.6,3.126A17.855,17.855,0,0,1,2.3,2.155a7,7,0,0,1-.386-5.688C3.113-6.472,4.826-6.094,4.826-6.094a1.069,1.069,0,0,0-.437-1.388C3.529-8.1,3.234-7.836,3.234-7.836Z" transform="translate(13.33 8.84) rotate(163)" fill="#a8825b"/>
+  </g>
+</svg>

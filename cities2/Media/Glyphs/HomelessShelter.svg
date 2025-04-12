@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Homeless">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Homeless" clip-path="url(#clip-Homeless)">
+    <path id="Path_4215" data-name="Path 4215" d="M187.36,847.961l10.9-17.978-1.332-1.953,1.332-1.284,1.539,2.24,1.415-2.24,1.426,1.284-.964,1.953,11.826,17.978s-5.916-.727-9.669-3.879-4.035-5.638-4.035-5.638a29.466,29.466,0,0,1-4.619,5.638A13.628,13.628,0,0,1,187.36,847.961Z" transform="translate(-184.433 -821.809)"/>
+    <rect id="Rectangle_4589" data-name="Rectangle 4589" width="28" height="2" transform="translate(2 25.064)"/>
+  </g>
+</svg>

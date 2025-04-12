@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26"><defs><clipPath id="b"><rect width="26" height="26"/></clipPath></defs><g id="a"><g transform="translate(4.394 3.994)"><path d="M-5119.555-8630.518v-6.224h-3.051l8.16-7.31,1.967,2.244v-3.038h2.282v4.7l4.219,3.4h-3.472v6.224Z" transform="translate(5122.606 8644.845)" fill="#f1d825"/><rect width="3" height="4" transform="translate(6.606 7.006)" fill="#8d909c"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-BuildingLevel">
+      <rect width="26" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="BuildingLevel" clip-path="url(#clip-BuildingLevel)">
+    <path id="Path_781" data-name="Path 781" d="M-9982.585-10482.354l-8.7,5.143-.112-7.108,8.815-4.867Z" transform="translate(10003.08 10500.538)" fill="#008f15"/>
+    <path id="Path_782" data-name="Path 782" d="M-9971.015-10478.146l-6.365-4.538v-5.521l2.437-2.733,3.929,5.708Z" transform="translate(9982.824 10501.442)" fill="#f9f3dd"/>
+    <path id="Path_783" data-name="Path 783" d="M-9978.559-10492.074l-8.77,4.793-3.992-5.723,8.951-3.816Z" transform="translate(9999.115 10503.693)" fill="#bc8459"/>
+    <path id="Path_3715" data-name="Path 3715" d="M357.3-523.618l6.534,3.177-3.314-8.8Z" transform="translate(-348.826 532.032)" fill="#a2ff36"/>
+    <path id="Path_3716" data-name="Path 3716" d="M363.116-520.33l2.509-1.19-3.583-8.245-2.777,1.19Z" transform="translate(-348.104 531.921)" fill="#64b902"/>
+  </g>
+</svg>
